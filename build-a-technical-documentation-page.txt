@@ -1,0 +1,318 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>A Beginners Guide To: HTML/CSS</title>
+  </head>
+  <body>
+    <main id="main-doc">
+      <nav id="navbar">
+        <header>Table of Contents:</header>
+        <ul>
+          <li><a class="nav-link" href="#what_is_html/css?">What is HTML/CSS?</a></li>
+          <li><a class="nav-link" href="#introduction_to_html">Introduction to HTML</a></li>
+          <li><a class="nav-link" href="#hello_world!">Hello World!</a></li>
+          <li><a class="nav-link" href="#introduction_to_css">Introduction to CSS</a></li>
+          <li><a class="nav-link" href="#conclusion">Conclusion</a></li>
+        </ul>
+      </nav>
+      <section class="spacer">
+      <section id="what_is_html/css?" class="main-section">
+        <header>What is HTML/CSS?</header>
+        <p>HTML is a basic structure language of websites. It controls the text, images, and "physical" blocks on a web page. It is also used to add links to other websites, documents. HTML is also useful for adding hidden elements with the help of CSS (Styling) for screen readers.</p>
+        <h2>HTML Can Be Used To:</h2>
+        <ul>
+          <li>Create the basic text structure of a web page</li>
+          <li>Link to images and documents</li>
+          <li>Create forms and send data</li>
+          <li>Make hidden blocks and lists for organization</li>
+          <li>Control the flow of screen reader technology</li>
+          
+        </ul>
+        <p>CSS is a styling/markup language for websites. While it is mostly cosmetic, it provides most of the structure for a web page. It controls the colors, sizing, properties, and organization of HTML scripts.</p>
+        <h2>CSS Can Be Used To:</h2>
+          <ul>
+            <li>Organize the flow and look of a web page</li>
+            <li>Add color and shapes to HTML elements</li>
+            <li>Control the size of and create responsive HTML elements</li>
+            <li>Adjust the view of a site based on screen-type</li>
+            <li>Create animations and interactive elements</li>
+      </section>
+      <section id="introduction_to_html" class="main-section">
+        <header>Introduction to HTML</header>
+        <p>To start a web-page you first need to add a few elements that allow you to begin coding:</p>
+        <p>This is the basic setup for most HTML pages. The "DOCTYPE" declares what kind of document a file is being read as. The "html" contains all of the code being read. The "meta" tag is used to give the page certain information and attributes. "Title" tells the page what to display on your tab and gives the site a name before you enter. The "head" and "body" elements are organization elements. </p>
+      <div>  <code> <xmp>     <!DOCTYPE html>
+          <html lang="en">
+            <head>
+              <meta charset="UTF-8">
+              <title>John Doe</title>
+            </head>
+            <body></body>
+          </html>
+          </xmp>
+        </code> </div>
+        <p>Text elements are an essential part of a website. "h1-h6" are heading elements based on hierarchy with preset sizes that can be changed with CSS. The "img" element creates images with a source and can be given alternate text for screen-readers or replacement if it cannot be loaded. The "p" element is for paragraphs. The "ul" and "ol" elements create lists with bullets or numbers. "li" is the text added inside a list, each one getting a bullet or a number.
+        </p>
+       <div> <code><xmp>
+          <h1><h2><h3><h4><h5><h6>
+          <img src="Jane-Doe" alt="A woman">
+          <p>
+          <ul> <ol> <li>
+       </xmp> </code> </div>
+      </section>
+      <section id="hello_world!" class="main-section">
+        <header>Hello World!</header>
+        <p>This is the basic code to display the text: "Hello World." Hello world is the standard first assignment of most coding languages to get a basic grasp of it's intricacies.</p> 
+        <div><code><xmp>       <html>
+         <header><title>Hello World!</title></header>
+          <body>
+            <h1>Hello World!</h1>
+          </body>
+        </html>
+        </xmp></code></div>
+      </section>
+      <section id="introduction_to_css" class="main-section">
+        <header>Introduction to CSS</header>
+        <p>Unlike HTML, CSS doesn't need any setup to begin coding. However, it does need selectors to assign values. Typing the name of any element like a "p" will link the specific selector to all "p" elements in your code. You can also link to a class with a period before the class name. Or you can link to an ID using a hashtag.
+        <div><code><xmp>          element {
+            style-attribute: value;
+          }
+
+          .class {
+            style-attribute: value;
+          }
+
+          #id {
+            style-attribute: value;
+          }</xmp></code></div>
+        <p>There are many different styling attributes that can be added to every element. Almost everything is completely customizable if you know the right attributes.
+      </section>
+      <section id="conclusion" class="main-section">
+        <header>Conclusion</header>
+        <p>All in all, HTML and CSS together form a complete system for front-end web development. That is all of the elements that you can see and/or interact with. With a good understanding of these languages that will come with time, you can begin a career as a front-end web-developer.</p>
+
+        <p>With time and perseverance coding will come to you and become a powerful tool in your arsenal!</p>
+
+        <div>
+            <code><xmp><p>GOOD LUCK!!!</p>
+        <!-- UWU --></xmp> </code></div>
+      </section>
+      
+  
+      </section>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+* {
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  align-items: center;
+}
+
+
+body {
+ background: #00969e
+}
+
+section {
+  background: #6df5ff;
+  padding-bottom: 20px;
+  margin: 20px 0;
+}
+
+p {
+  padding-left: 25px;
+  text-indent: 25px;
+  font-family: Galeway;
+  font-size: 20px;
+}
+
+code {
+  background: black;
+  color: white;
+  padding-top: 10px;
+  display: block;
+  width: 80vw;
+}
+
+xmp {
+  transform: translateX(50px);
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  font-family: impact;
+
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  display: block;
+  width: 100vw;
+  margin: 30px auto;
+  background: #00cad4;
+  border: 5px solid black;
+}
+
+
+nav > header {
+  border: none;
+  left: 0vw;
+  width: 100%;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  right: 5vw;
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: underline;
+  border: 3px dashed gray;
+  width: 110vw;
+  padding: 0;
+  margin: 0;
+  background: #00ffd9;
+}
+
+nav > ul > li {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 3px solid black;
+  width: 200px;
+  text-align: center;
+  padding: 12px;
+  font-size: 18;
+  height: 60px;
+  background: #00b4be;
+}
+
+a {
+  text-decoration: none;
+  color: #000303;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+@media (min-width: 850px) {
+  nav > ul > li {
+    display: flex;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 7vh;
+    height: 100px; 
+  }
+
+  a {
+    font-size: 20px;
+  }
+
+  header {
+    text-align: center;
+  }
+
+  nav > ul {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    justify-content: center;
+    margin: 20px 0;
+    padding-bottom: 15px;
+    min-width: 500px;    
+  }
+
+  nav {
+    width: 21.7%;
+    max-width: 207px;
+    min-width: 207px;
+    height: 110%;
+    position: fixed;
+    padding-top: -45px;
+    margin-top: -8px;
+    left: 0;
+    top: 7px;
+    z-index: 10;
+  }
+
+.spacer {
+  padding-left: 21.7%;
+}
+
+header {
+  right: 21.7%;
+}
+
+}
+
+nav > ul > li:hover {
+  background-color: cyan;
+}
+
+nav > ul {
+  padding: 0;
+  display: flex;
+}
+
+nav > ul > li {
+  font-size: 16px;
+  padding: 0;
+}
+
+
+ul {
+  padding-left: 160px;
+}
+
+li {
+  font-size: 20px;
+  padding-bottom: 10px
+}
+
+.idk {
+  padding-left: 100px;
+}
+
+/* The breadcrumb trail grows larger...
+I wonder if I will ever become big enough for anyone to see these...
+Otherwise I'll keep leaving notes for myself...
+I'll try to come up with some more interesting content in between projects to keep you guys interested (:
+If any pioneers come across this, my personal number is: (607) 752-4006
+Contact me from the future and I'll send you some merchanedise, signed by me.
+Just don't leak my shit plz (;
+
+Captains log #1: 
+Coding my ass off, trying to find a job desperately while simultaneously attempting to learn the guitar...
+Why is it so hard to get rich? )':
+
+--signing off
+*/
+
+
+
+
+
+** end of undefined **
+

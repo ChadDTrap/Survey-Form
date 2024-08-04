@@ -1,0 +1,126 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta description="A short tribute to Andrew Carnegie">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title id="title">Andrew Carnegie</title>
+  </head>
+  <body>
+    <main id="main">
+      <div class="background">
+
+      <h1 id="Andrew-Carnegie">Andrew Carnegie</h1>
+
+      <div id="img-div">
+        <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Andrew_Carnegie%2C_by_Theodore_Marceau.jpg/220px-Andrew_Carnegie%2C_by_Theodore_Marceau.jpg" alt="Andrew Carnegie sitting in a leather chair">
+        <figcaption  id="img-caption">Andrew Carnegie Sitting In A Chair</figcaption>
+      </div> 
+      <div id="info-section">
+        <ul id="tribute-info">
+          <li><strong>1835:</strong> <span></span>Born in Dumferline, Scotland. Children of Margaret and William Carnegie.</li>
+          <br> <hr>
+          <li><strong>1836:</strong><span></span> The family moves out of their weavers cottage into a nicer house and sends Andrew Carnegie to the Free School in Dumferline. A gift from philanthropist Adam Rolland of Gask.</li>
+            <br> <hr>
+          <li><strong>1848:</strong><span></span> Immigrated from Scotland to the United States, Pittsburgh, PA (age 12). Carnegie began working for a cotton mill as a bobbin boy at this time.</li>
+          <br><hr>
+          <li><strong>1849-1853:</strong><span></span> Carnegie continued to work his way up the ladder, slowly gaining experience and promotions in his upbringing.</li>
+          <br><hr>
+          <li><strong>1853:</strong><span></span> Carnegie turns 18 and begins working for the Pennsylvanian Railroad as a telegraph secretary/operator. This was his first contact with the market need for transportation and steel.</li>
+          <br><hr>
+          <li><strong>1859:</strong><span></span> Carnegie becomes superintendent of the Western Division of the Pennsylvanian railroad company. He hired his 16 year old cousin as a telegraph operator and his cousin who became the first female telegraph operator in the country!</li>
+          <br><hr>
+          <li><strong>1860-1863:</strong><span></span> The Civil War kicks off and Carnegie begins a merger between the Pennsylvanian Railroad and George Pullman, inventor of the sleeping car. With the ongoing war, the military began to heavily invest in transportation and Andrew Carnegie was appointed by Scott of the Military Railways as superintendant further advancing his career.</li>
+          <br><hr>
+          <li><strong>1864:</strong><span></span> Carnegie leaves the railroads to pursue ironworks. Forming the Keystone Bridge Works and Union Ironworks. </li>
+          <br><hr>
+          <li><strong>1875-1889:</strong><span></span> Andrew Carnegie had built a "Steel Empire," creating one of the most extensive steel production companies individually owned in U.S. history. Innovating new practices to produce more steel for much cheaper. Carnegie's factories were pumping out 2,000 tons of pig-iron a day! Along with rails and coke (coal based fuel).</li>
+          <br><hr>
+          <li><strong>1901:</strong><span></span> Carnegie sells his company to John Pierpont Morgan who formed the famous United States Steel Corporation! The first ever company to reach $1 billion market capital! Carnegie made $225.64 million (8.26 billion today) off of the buyout to reach his final retirement.</li>
+          <br><hr>
+          <li><strong>1901-1919:</strong><span></span> Carnegie used his retirement to spread wealth in his final acts of philanthropy. Carnegie funded the creation of 3,000 public libraries. He also spent much of his fortune giving capital to many social, educational, and public interest projects. He dispersed most of his fortune before his demise on August 11th, 1919.</li>
+          <br>
+          <br>
+          <br>
+          <br>
+        </ul>
+        <p>Read all about <a href="https://en.wikipedia.org/wiki/Andrew_Carnegie" target="_blank">Andrew Carnegie</a> on <a href="https://en.wikipedia.org/wiki/Main_Page" target="_blank"> Wikipedia</a> right <a id="tribute-link" href="https://en.wikipedia.org/wiki/Andrew_Carnegie" target="_blank">HERE</a>!!!</p>
+        </div>
+      </div>
+    </main>
+  </body>
+
+  <!-- ONE DAY IT WILL HAPPEN -->
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+
+
+h1 {
+  text-align: center;
+  color: #01B6B6;
+  text-shadow: -1.5px -5px 0 #222222;
+  background: black;
+  margin: auto;
+}
+
+figcaption {
+  text-align: center;
+  padding: 5px;
+  text-decoration: underline;
+  color: #01B6B6
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
+body {
+  padding: 5px;
+  font-family: sans-serif;
+  color: white;
+  background: #610671;
+}
+
+
+
+.background div {
+  background: black;
+}
+
+span {
+  padding: 0 10px;
+}
+
+ul {
+  list-style-type: square;
+ 
+}
+
+li {
+ padding-top: 25px;
+ color: #01B6B6;
+}
+
+hr {
+  padding: auto;
+}
+
+p {
+  text-align: center;
+  color: #01B6B6;
+  padding-bottom: 10px;
+}
+
+** end of undefined **
+
