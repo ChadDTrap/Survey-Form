@@ -1,0 +1,639 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-size=1.0">
+    <script src="https://kit.fontawesome.com/abb4745399.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playwrite+CU:wght@100..400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <title>My Portfolio!</title>
+  </head>
+  <body>
+    <div class="nav-wrap">
+      <navbar id="navbar">
+
+        <div class="logo-wrap">
+          <h3 class="logo-1">C</h3>
+          <h3 class="logo-2">L</h3>
+        </div>
+        <a href="#welcome"><p>Welcome!</p></a>
+        <a href="#projects"><p>Projects</p></a>
+        <a href="#contact"><p class="extra-right-margin">Contact</p></a>
+
+      </navbar>
+    </div>
+    <div id="welcome" class="image-scroll">
+      <div class="intro-wrap">
+        <h1 class="intro-1">Hello! My name is Chad Lainhart</h1>
+        <h2 class="intro-2">Here are my projects:</h2>
+        <xmp>                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                        ████                                                                          
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                                                      ░░████▒▒                                                                        
+                                        ████                          ░░████▒▒                          ████▒▒                                        
+                                      ▓▓██████                        ░░████▒▒                        ████████                                        
+                                        ████████                      ░░████▒▒                      ████████░░                                        
+                                          ████████                    ░░████▒▒                    ████████                                            
+                                            ████████                  ░░████▒▒                  ████████                                              
+                                              ████████                ░░████▒▒                ████████                                                
+                                                ████████              ░░████▒▒              ████████                                                  
+                                                  ████████            ░░████▒▒            ████████                                                    
+                                                    ████████          ░░████▒▒          ████████                                                      
+                                                      ████████        ░░████▒▒        ████████░░                                                      
+                                                        ████████      ░░████▒▒      ████████                                                          
+                                                          ████████    ░░████▒▒    ████████                                                            
+                                                            ████████  ░░████▒▒  ████████                                                              
+                                                              ████████░░██████████████                                                                
+                                                                ████████████████████░░                                                                
+                                                                  ████████████████░░                                                                  
+                                                                    ████████████░░                                                                    
+                                                                      ████████░░                                                                      
+                                                                        ████░░                                                                        
+                                                                        ░░░░                                                                          
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+</xmp>
+      </div>
+       
+       <img src="https://images.pexels.com/photos/7676856/pexels-photo-7676856.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Red and Pink Smoke" class="background-image">
+       <img class="background-image-2" src="https://images.pexels.com/photos/8738450/pexels-photo-8738450.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Blue Smoke">
+      
+       <img class="background-image-3" src="https://images.pexels.com/photos/8738450/pexels-photo-8738450.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Blue Smoke">
+
+       <img src="https://images.pexels.com/photos/7676856/pexels-photo-7676856.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Red and Pink Smoke" class="background-image-11">
+       <img src="https://images.pexels.com/photos/7676856/pexels-photo-7676856.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Red and Pink Smoke" class="background-image-12">
+    <section id="welcome-section">
+     
+      <h1>Hello! My name is Chad Lainhart</h1>
+      <h2>Here are my projects:</h2>
+
+    </section>
+    </div>
+    <section id="projects">
+      <p class="project-title">My Projects:</p>
+      <div class="projects-wrap">
+        <div class="project-tile tile-1" id="project-tile">
+          <p class="project-header header-1">T-Shirt Design Landing Page</p>
+          <a href="https://codepen.io/Chadd-the-reactor/pen/yLdXeqy" target="_blank"><img class="tile-image image-1" src="https://github.com/ChadDTrap/Survey-Form/blob/main/Screenshot%202024-08-05%20165310.png?raw=true" alt="T-Shirt Design Landing Page"></a>
+        </div>
+        <div class="project-tile tile-2" id="project-tile">
+          <p class="project-header header-2">HTML/CSS Technical Documentation</p>
+          <a href="https://codepen.io/Chadd-the-reactor/pen/OJegMEa" target="_blank"><img class="tile-image image-2" src="https://github.com/ChadDTrap/Survey-Form/blob/main/Screenshot%202024-08-05%20165414.png?raw=true" alt="HTML/CSS Technical Documentation"></a>
+        </div>
+        <div class="project-tile tile-3" id="project-tile">
+          <p class="project-header header-3">Andrew Carnegie Tribute Page</p>
+          <a href="https://codepen.io/Chadd-the-reactor/pen/abgwdKp" target="_blank"><img class="tile-image image-3" src="https://github.com/ChadDTrap/Survey-Form/blob/main/Screenshot%202024-08-05%20170607.png?raw=true" alt="Andrew Carnegie Tribute Page"></a>
+        </div>
+        <div class="project-tile tile-4" id="project-tile">
+          <p class="project-header header-4">Coffee Shop Review</p>
+          <a href="https://codepen.io/Chadd-the-reactor/pen/QWXgyrX" target="_blank"><img class="tile-image image-4" src="https://github.com/ChadDTrap/Survey-Form/blob/main/Screenshot%202024-08-05%20170643.png?raw=true" alt="Coffee Shop Review Site"></a>
+
+        
+        </div>
+      </div>
+      <div class="profile-link-container">
+  <p class="profile-link-text"><a class="profile-link" id="profile-link" href="https://github.com/ChadDTrap" target="_blank">See More !</a></p>
+      </div>
+      </div>
+    </section>
+    <section id="contact" class="contact">
+      <p class="contact-title">Contact Me!</p>
+      <div class="contact-method">
+        <span>
+          <a href="https://codepen.io/Chadd-the-reactor" target="_blank">
+          <p>CodePen</p>
+         <i class="fa-brands fa-codepen"></i>
+         </a>
+        </span>
+        <span>
+          <a href="https://github.com/ChadDTrap?tab=projects" target="_blank">
+          <p>GitHub</p>
+          <i class="fa-brands fa-github"></i>
+          </a>
+        </span>
+        <span>
+          <a href="tel:6077524006" target="_blank">
+          <p>Phone-Number</p>
+          <i class="fa-solid fa-phone"></i>
+        </span>
+        <span>
+          <a href="mailto:chadlainhart06@gmail.com" target="_blank">
+          <p>Email</p>
+          <i class="fa-regular fa-envelope"></i>
+          </a>
+        </span>
+        <span>
+          <a href="https://www.instagram.com/chad.lainhart/" target="_blank">
+          <p>Instagram</p>
+          <i class="fa-brands fa-instagram"></i>
+          </a>
+        </span>
+      </div>
+    </section>
+  </body>
+  <footer></footer>
+
+** end of undefined **
+
+** start of undefined **
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#welcome-section {
+  display: flex;
+  position: absolute;
+  top: 0;
+  z-index: -1;
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(
+    #473e3e 95%,
+    #e00808 98.5%,
+    black 100%
+  );
+}
+
+#navbar {
+  display: flex;
+  position: fixed;
+  top: 0;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100vw;
+  height: 8vh;
+  background: linear-gradient(
+    gray,
+    black 90%,
+    red 95%,
+    black
+  );
+  z-index: 100;
+}
+
+#navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+#navbar p:hover {
+  background: red;
+}
+
+#navbar p {
+  padding: 5px 5vw;
+  border: 3px solid white;
+  background: black;
+  color: white;
+  margin: 0 10px;
+  margin-bottom: 3px;
+}
+
+.extra-right-margin {
+  margin-right: 40px !important;
+}
+
+.logo-1 {
+  font-family: Playwrite CU, cursive;
+  font-weight: bold;
+  font-size: 37px;
+  text-shadow: 2px 2px 5px blue;
+  display: flex;
+  position: fixed;
+  left: 24px;
+  z-index: 1;
+  color: pink;
+}
+
+.logo-2 {
+  font-family: Bebas Neue, serif;
+  font-size: 70px;
+  display: flex;
+  position: fixed;
+  font-weight: 400;
+  left: 52px;
+  top: -24px;
+  z-index: 0;
+  color: blue;
+  text-shadow: 2px 2px 5px pink;
+}
+
+.logo-wrap {
+  display: flex;
+  position: fixed;
+  left: 20px;
+  top: 6px;
+  width: 6vh;
+  height: 6vh;
+  background: black;
+  border: 2px dotted white;
+}
+
+xmp {
+  color: white;
+  background: black;
+  font-size: 2px;
+  margin-top: 100px;
+}
+
+.intro-wrap {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  z-index: 6;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+}
+
+.intro-1 {
+  background: black;
+  border: 2px solid hotpink;
+  color: white;
+  height: 3rem;
+  width: 30rem;
+  min-width: 29rem;
+  align-content: center;
+
+}
+
+.intro-2 {
+  background: black;
+  border: 2px solid hotpink;
+  color: white;
+  height: 3rem;
+  width: 15rem;
+  align-content: center;
+  margin-top: 100px;
+}
+
+.background-image {
+  display: flex;
+  position: sticky;
+  justify-content: center;
+  height: 100vh;
+  top: 10px;
+  z-index: 5;
+  margin: 0 auto;
+}
+
+.background-image-11 {
+  display: flex;
+  position: absolute;
+  height: 100vh;
+  top: -280px;
+  right: 22%;
+  left: 22%;
+  z-index: 1;
+  transform: rotate(90deg);
+  margin: 0 auto;
+}
+
+.background-image-12 {
+  display: flex;
+  position: absolute;
+  height: 100vh;
+  top: 320px;
+  right: 22%;
+  left: 22%;
+  z-index: 1;
+  transform: rotate(90deg) scaleX(-1);
+  margin: 0 auto;
+}
+
+.background-image-2 {
+  display: flex;
+  position: absolute;
+  height: 105%;
+  left: 0;
+  top: 0;
+  z-index: 3;
+}
+
+.background-image-3 {
+  display: flex;
+  position: absolute;
+  height: 105%;
+  right: 1vw;
+  top: 0;
+  transform: scaleX(-1);
+  z-index: 3;
+}
+
+
+
+#projects {
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  top: 100vh;
+  left: 0;
+  width: 100%;
+  z-index: 15;
+  background: linear-gradient(
+    black,
+    #ff0000 5%,
+    gray 6%,
+    black 80%,
+    #ff0000 90%,
+    black 95%
+  );
+  height: calc(100vh + 15vw);
+}
+
+
+.profile-link:hover {
+  background: red;
+}
+
+.projects-wrap {
+  display: grid;
+  padding: 25vw;
+  justify-content: center;
+  align-content: center;
+  grid-template-columns: repeat(2 1fr);
+  grid-template-rows: repeat(2 1fr);
+  width: 100%;
+  height: 100%;
+  gap: 2vw 15vw;
+  overflow: hidden;
+}
+
+.project-tile {
+  display: block;
+  border: 5px solid white;
+  overflow: hidden;
+  background: radial-gradient(
+    black 80%,
+    red 90%,
+    black 95%
+  );
+  width: calc(320px + 5vw);
+  height: calc(300px + 5vw);
+}
+
+.tile-1 {
+ grid-row: 1;
+ grid-column: 1;
+}
+
+.tile-2 {
+  grid-row: 1;
+  grid-column: 2;
+}
+
+.tile-3 {
+  grid-row: 2;
+  grid-column: 1;
+}
+
+.tile-4 {
+  grid-row: 2;
+  grid-column: 2;
+}
+
+.project-header {
+  background: black;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  padding-bottom: 15%;
+  padding-top: 5%;
+  text-align: center;
+  color: cyan;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Kanit;
+  outline: 3px solid #f505d9;
+}
+
+.tile-image {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: 80%;
+  object-fit: cover;
+  align-items: end;
+  outline: 3px solid cyan;
+}
+
+.image-scroll {
+  height: 200vh;
+  width: 100%;
+}
+
+
+.profile-link {
+  display: block;
+  text-decoration: none;
+  color: white;
+  font-family: Bebas Neue;
+  width: 13.5vw;
+  font-size: calc(7px + 3vw);
+  text-align: center;
+  height: 5vw;
+  align-content: center;
+  background: black;
+  border: .3vw dotted white;
+  min-width: 100px;
+  min-height: 25px;
+  overflow: hidden;
+}
+
+.profile-link-text {
+  position: absolute;
+  width: 20vw;
+  left: 43.5%;
+  right: 50%;
+  bottom: 7%;
+  z-index: 1000;
+}
+
+.project-title {
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  top: 8%;
+  align-items: center;
+  justify-content: center;
+  border: 7px outset #ff0000;
+  right: 25%;
+  left: 25%;
+  font-size: 50px;
+  font-family: bebas neue;
+  height: 7vh;
+  margin: 0 auto;
+  width: 270px;
+  min-width: 240px;
+  background: black;
+  color: white;
+}
+
+.contact {
+  background: black;
+  height: 40%;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  top: calc(195vh + 16vw);
+  z-index: 2000;
+  border: 5px double cyan;
+  outline: 5px dashed red;
+  justify-content: center;
+}
+
+.contact-title {
+  color: white;
+  display: block;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+  padding-top: 30px;
+  width: 100%;
+  }
+
+  .contact-method {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    width: 100%;
+  }
+
+  .contact-method p, i {
+    font-size: 40px;
+    padding-right: 10px;
+    text-shadow: 4px 4px 10px blue;
+  }
+
+  i {
+    color: white;
+    display: flex;
+    padding-left: 2px;
+    align-content: center;
+    overflow: hidden;
+  }
+
+  span {
+    display: flex;
+    flex-direction: row;
+  }
+
+@media (max-width: 1100px) {
+  i, .contact-method p {
+    font-size: 3vw
+  }
+
+  .contact {
+    height: 30vw;
+  }
+}
+
+@media (min-width: 1000px) {
+  .profile-link {
+    width: 10vw;
+    font-size: 2vw;
+    height: 3vw;
+    border: .3vw dotted white;
+  }
+
+  .profile-link-text {
+      width: 20vw;
+      left: 45%;
+  }
+}
+
+.contact a {
+  text-decoration: 0;
+  color: white;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+}
+
+/* Captains Log #286:
+I don't know how long I've been here, it feels like ages.
+Why did this project take so long.
+Has it been weeks? Months? Years?!
+No... it has only been three days... of very inconsistent work
+
+Why do I do this to myself
+Why do I write these?
+Will they ever be found?
+
+I don't know.
+
+Signing off, Until next time... /*
+
+** end of undefined **
+
