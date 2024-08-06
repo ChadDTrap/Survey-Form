@@ -295,20 +295,7 @@ li {
   padding-left: 100px;
 }
 
-/* The breadcrumb trail grows larger...
-I wonder if I will ever become big enough for anyone to see these...
-Otherwise I'll keep leaving notes for myself...
-I'll try to come up with some more interesting content in between projects to keep you guys interested (:
-If any pioneers come across this, my personal number is: (607) 752-4006
-Contact me from the future and I'll send you some merchanedise, signed by me.
-Just don't leak my shit plz (;
 
-Captains log #1: 
-Coding my ass off, trying to find a job desperately while simultaneously attempting to learn the guitar...
-Why is it so hard to get rich? )':
-
---signing off
-*/
 
 
 
