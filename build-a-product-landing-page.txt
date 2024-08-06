@@ -87,13 +87,6 @@
 </html>
 
 
-<!-- Yes yes I know... This looks like shit, frankly.
-
-This took wayyyy too fucking long lol.
-So many bugs, bs, etc.
-And I was forced against my will to fix the navigation to the top, which added an extra hour of course.
-The color scheme is wacky and half the code is redundant and excessively messy.
-BS... Until the next time!
 
 ** end of undefined **
 
