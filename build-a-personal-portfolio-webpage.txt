@@ -621,19 +621,7 @@ xmp {
   flex-direction: row;
 }
 
-/* Captains Log #286:
-I don't know how long I've been here, it feels like ages.
-Why did this project take so long.
-Has it been weeks? Months? Years?!
-No... it has only been three days... of very inconsistent work
 
-Why do I do this to myself
-Why do I write these?
-Will they ever be found?
-
-I don't know.
-
-Signing off, Until next time... /*
 
 ** end of undefined **
 
